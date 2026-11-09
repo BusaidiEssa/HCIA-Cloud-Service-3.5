@@ -18,8 +18,15 @@ A Public Cloud can be accessed from anywhere, where it follows a multi tenant st
 | + Pros |  - Cons |
 | :--- | :--- |
 | **No Capital Expense:** Pay only for what you use . | **Less Security:** Resources are shared multiple tenants use the same hardware could cause Governance & Compliance Issues  |
-| **High Scalability:** calability is immediate and nearly infinite. You can spin up or down thousands of servers in minutes. | **Steep Learning Curve:** Requires terminal knowledge. |
-| **Zero Hardware Maintenance** : The cloud vendor handles all physical security, hardware repairs, cooling, and facility upkeep | **Poor Documentation:** Some advanced features lack guides. |
+| **High Scalability:** calability is immediate and nearly infinite. You can spin up or down thousands of servers in minutes. | **Vendor Lock-in & Less Control**: You cannot control the physical hardware or choose custom, non-standard infrastructure configurations.. |
+| **Zero Hardware Maintenance** : The cloud vendor handles all physical security, hardware repairs, cooling, and facility upkeep | **Internet Dependency:** Total reliance on WAN/Internet connectivity. If your internet line goes down, you lose access to your resources.. |
+
+Main User of public clouds
+-SMEs/Startups
+-E-commerce and digital storefronts with predictable traffic (during eid sales)
+-SAAS providers
+-Enteprise DevOps teams that want a testing enviorment without waiting for hardware to be provisiones
+
 
 
 
