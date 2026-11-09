@@ -10,10 +10,11 @@ Its an alternative way of powering business applications without the heavy capit
 Example : If a company wants to back up their data instead of using on prem tape disks it could  autommtically sync backups  to the cloud. This will mitigate the risk of data being lost  if something happens to the main office like a fire 
 
 
-## 2-What is Public Cloud?
+## 2- What is Public Cloud?
 
 A Public Cloud can be accessed from anywhere, where it follows a multi tenant structure meaning a shared pool resources, usally provisioned by third party vendors (e.g Oman Data Park/AWS)
 
+### 2a- Pros And Cons
 
 | + Pros |  - Cons |
 | :--- | :--- |
