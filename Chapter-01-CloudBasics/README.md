@@ -13,7 +13,8 @@ Example : If a company wants to back up their data instead of using on prem tape
 
 ## 2 - What is Public Cloud?
 
-A Public Cloud can be accessed from anywhere, where it follows a multi tenant structure meaning a shared pool resources, usally provisioned by third party vendors (e.g Oman Data Park/AWS)
+A Public Cloud is a cloud computing model where resources (such as servers, storage, and networking) are provided by a third-party cloud provider over the internet.
+It follows a multi-tenant architecture, meaning multiple customers share the same underlying infrastructure and resource pool, while their data and environments remain logically isolated. (e.g Oman Data Park/AWS)
 
 ### 2a - Pros And Cons
 
@@ -29,6 +30,14 @@ A Public Cloud can be accessed from anywhere, where it follows a multi tenant st
 - SAAS providers
 - Enteprise DevOps teams that want a testing enviorment without waiting for hardware to be provisiones
 
+## 3 - What is Private Cloud?
+A Private Cloud is a cloud computing model where cloud resources are dedicated to a single organization rather than shared between multiple customers (tenants).
+It can be hosted on the organization's own premises (on-premises) or managed by a third-party cloud provider (AWS,Oman DataPark, Azure, GCP).
 
+### 3a - Pros And Cons
 
-
+| + Pros |  - Cons |
+| :--- | :--- |
+| **No Capital Expense:** Pay only for what you use . | **Less Security:** Resources are shared multiple tenants use the same hardware could cause Governance & Compliance Issues  |
+| **High Scalability:** calability is immediate and nearly infinite. You can spin up or down thousands of servers in minutes. | **Vendor Lock-in & Less Control**: You cannot control the physical hardware or choose custom, non-standard infrastructure configurations.. |
+| **Zero Hardware Maintenance** : The cloud vendor handles all physical security, hardware repairs, cooling, and facility upkeep | **Internet Dependency:** Total reliance on WAN/Internet connectivity. If your internet line goes down, you lose access to your resources.. |
