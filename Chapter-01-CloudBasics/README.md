@@ -3,7 +3,7 @@
 Notes from Huawei Cloud Service Certification 
 
 
-# Chapter 1 Overview
+# Chapter 1.1 Private Vs Public Cloud
 
 ## 1 - What is the cloud?
 Its a group of powerful physical servers hosted in remote datacenters that can be accessed through the Internet globally.
