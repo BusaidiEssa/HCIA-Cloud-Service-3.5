@@ -24,10 +24,10 @@ A Public Cloud can be accessed from anywhere, where it follows a multi tenant st
 | **Zero Hardware Maintenance** : The cloud vendor handles all physical security, hardware repairs, cooling, and facility upkeep | **Internet Dependency:** Total reliance on WAN/Internet connectivity. If your internet line goes down, you lose access to your resources.. |
 
 ### 2b - Main User/s of public clouds
--SMEs/Startups
--E-commerce and digital storefronts with predictable traffic (during eid sales)
--SAAS providers
--Enteprise DevOps teams that want a testing enviorment without waiting for hardware to be provisiones
+- SMEs/Startups
+- E-commerce and digital storefronts with predictable traffic (during eid sales)
+- SAAS providers
+- Enteprise DevOps teams that want a testing enviorment without waiting for hardware to be provisiones
 
 
 
