@@ -34,15 +34,8 @@ It follows a multi-tenant architecture, meaning multiple customers share the sam
 A Private Cloud is a cloud computing model where cloud resources are dedicated to a single organization rather than shared between multiple customers (tenants).
 It can be hosted on the organization's own premises (on-premises) or managed by a third-party cloud provider (AWS,Oman DataPark, Azure, GCP).
 
+
 ### 3a - Pros And Cons
-
-| + Pros |  - Cons |
-| :--- | :--- |
-| **No Capital Expense:** Pay only for what you use . | **Less Security:** Resources are shared multiple tenants use the same hardware could cause Governance & Compliance Issues  |
-| **High Scalability:** calability is immediate and nearly infinite. You can spin up or down thousands of servers in minutes. | **Vendor Lock-in & Less Control**: You cannot control the physical hardware or choose custom, non-standard infrastructure configurations.. |
-| **Zero Hardware Maintenance** : The cloud vendor handles all physical security, hardware repairs, cooling, and facility upkeep | **Internet Dependency:** Total reliance on WAN/Internet connectivity. If your internet line goes down, you lose access to your resources.. |
-
-### 3b - Pros And Cons
 
 | + Pros | - Cons |
 | :--- | :--- |
@@ -51,3 +44,10 @@ It can be hosted on the organization's own premises (on-premises) or managed by 
 | **Customization:** Infrastructure can be customized to meet specific business requirements, governance and compliance standards. | **Limited Scalability:** Scaling requires purchasing and installing additional hardware, which takes time and money. |
 | **Performance:** Dedicated resources provide more predictable performance without competing with other cloud customers for the same resources. | **Requires IT Expertise:** Needs skilled IT staff to manage, maintain and secure the infrastructure. |
 | **Compliance:** Easier to enforce specific data residency, governance and regulatory requirements. | **Higher Operating Costs:** Electricity, cooling, staffing and infrastructure maintenance add ongoing expenses. |
+
+### 3b - Main User/s of public clouds
+- Government Instituition
+- Banks/Finance Instituions
+- Military
+- Healthcare Organizations
+- Organizations with Strict Compliance Requirement for oman's case it will be oil and gas companies
