@@ -13,10 +13,10 @@ Example
 - Government Entities
 
 ## Who Provides IAAS?
--AWS
--AZURE
--Oman DAta Park
--Data2cloud
+- AWS
+- AZURE
+- Oman DAta Park
+- Data2cloud
 
 ##What is PAAS?
 It is the provisions of a platform to assist in creation and  maintainence of  software throughout its software Development LifeCycle
